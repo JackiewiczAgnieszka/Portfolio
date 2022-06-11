@@ -1,6 +1,8 @@
 # About me
-My name is **Agnieszka Jackiewicz**. I have started to interest of software testing. My goal is to develop test and technical skills. 
-I would like to share all my experience.
+My name is **Agnieszka Jackiewicz**. 
+I'm interested in software testing. 
+I'd like to develop my test and technical skills. 
+
 
 # My courses
 - Praktyczny kurs testowania oprogramowania (Udemy)
