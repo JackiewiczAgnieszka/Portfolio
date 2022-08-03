@@ -9,7 +9,7 @@ I'd like to develop my test and technical skills.
 - Angielski w IT (Udemy)
 
 # Recommended blogs
-- testerka.pl
+- testelka.pl
 - cherry-it.pl
 
 # Books
